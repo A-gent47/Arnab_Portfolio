@@ -1,0 +1,16 @@
+Python Programming Language was developed by Guido van Rossum12.
+Python supports object-oriented programming, structured programming, and functional programming.
+Yes, Python is case sensitive when dealing with identifiers.
+The correct extension of a Python file is .py.
+Python code is both compiled and interpreted.
+A few blocks of code used to define in Python language are a module, a function body, and a class definition.
+The character used to give single-line comments in Python is the hash (#) symbol.
+Functions which can help us to find the version of python that we are currently working on are sys.version, sys.version_info, and sys.hexversion.
+Python supports the creation of anonymous functions at runtime, using a construct called lambda.
+PIP in Python stands for “Pip Installs Packages” or "Preferred Installer Program".
+A few built-in functions in Python are print(), len(), type(), str(), int(), float(), list(), dict(), set(), tuple(), input(), open(), range(), sorted(), enumerate(), zip(), map(), filter(), reduce(), etc.
+The maximum possible length of an identifier in Python is unlimited.
+Some benefits of using Python include its simplicity and readability, extensive standard libraries and third-party modules, interoperability with other languages, support for multiple programming paradigms, and wide usage in various fields such as web development, data analysis, machine learning, artificial intelligence, etc.
+Memory in Python is managed by the Python Memory Manager. It includes a private heap space where all Python objects and data structures are located. When an object is no longer in use, Python’s garbage collector automatically frees the memory.
+To install Python on Windows and set path variables, you can download the Python installer from the official website, run the installer, and ensure that the checkbox that says “Add Python to PATH” is checked before the installation. After installation, you can verify the installation and check the Python version by typing python --version in the command prompt.
+Yes, indentation is required in Python. It is used to define a block of code.
